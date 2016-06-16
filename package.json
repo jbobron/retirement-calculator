@@ -1,7 +1,7 @@
 {
-  "name": "react-node-starter",
+  "name": "retirement-calculator",
   "version": "0.2.0",
-  "description": "an example for deploying a React + NodeJS app to Heroku",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

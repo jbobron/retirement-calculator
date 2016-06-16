@@ -1,7 +1,6 @@
 import '../assets/stylesheets/base.scss';
 import React, { Component } from 'react';
 
-// var React = require('react');
 var AssetsGraph = require('./AssetsGraph');
 var CurrentAge = require('./CurrentAge');
 var RetirementAge = require('./RetirementAge');
